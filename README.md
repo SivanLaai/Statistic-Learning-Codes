@@ -60,3 +60,16 @@ tree = {
 }
 predict accuracy: 0.892857
 ```
+
+
+
+### 第5章 逻辑回归
+```bash
+user>python 6_LogistcRegression.py
+0 : loss =  1119.531578297443
+...
+997 : loss =  1505.6267724606946
+998 : loss =  1505.5914685824441
+999 : loss =  1505.5565465625332
+predict accuracy: 0.950000
+```
