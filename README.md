@@ -63,7 +63,7 @@ predict accuracy: 0.892857
 
 
 
-### 第5章 逻辑回归
+### 第6章 逻辑回归
 ```bash
 user>python 6_LogistcRegression.py
 0 : loss =  1119.531578297443
@@ -72,4 +72,10 @@ user>python 6_LogistcRegression.py
 998 : loss =  1505.5914685824441
 999 : loss =  1505.5565465625332
 predict accuracy: 0.950000
+```
+
+### 第7章 支持向量机
+```bash
+user>python 7_SupportVectorMachine.py
+predict accuracy: 0.900000
 ```
