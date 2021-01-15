@@ -79,3 +79,12 @@ predict accuracy: 0.950000
 user>python 7_SupportVectorMachine.py
 predict accuracy: 0.900000
 ```
+
+### 第8章 Adaboost
+```bash
+user>python 8_Adaboost.py
+before train:
+predict accuracy: 0.800000
+after train:
+predict accuracy: 0.940000
+```
